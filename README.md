@@ -2,7 +2,7 @@
 + Hello， :wave: 我是C.C.
 + 目前是一名快手前端端水师 :trident:
 + 电子邮箱：lijiaxuan02cc@163.com  :email:
-+ neumorphism风格的个人主页：:gem:
++ neumorphism风格的个人主页：建设中，敬请期待 :gem:
 
 ### :dolphin: 正在做的
 + C.C.的个人空间 - neumorphism风格的个人博客空间 :palm_tree:
