@@ -7,7 +7,7 @@
 ### :dolphin: 正在做的
 + C.C.的个人空间 - neumorphism风格的个人博客空间 :palm_tree:
 + Cherries UI - 一个可以适配任何框架与其版本的UI组件库  :cherries:
-+ 乐高 - 一个针对C端运营活动的高灵活no code搭建平台 :dizzy:
++ Lego - 一个针对C端运营活动的高灵活no code搭建平台 :dizzy:
 
 <!---
 lijiaxuan02cc/lijiaxuan02cc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
